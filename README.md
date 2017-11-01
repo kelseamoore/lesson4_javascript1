@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 1, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kelsea Moore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment shows how to use JavaScript by applying information from lesson 4 to a calculator application.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://kelseamoore.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. This lesson introduces JavaScript, which is a client-side programming language that makes a static webpage dynamic.
+2. JavaScript is a loosely written programming language and using comments in the code can be very beneficial for the author and others who look at the code. Single line comments are added with "//", and multiple line comments are added with "/* */."
+3. Variables are an important part of JavaScript. Variables are used to store data, which are stored by assigning a certain name to the variable. Variables names are case-sensitive and must start with a letter or an underscore.
